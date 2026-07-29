@@ -1,27 +1,33 @@
-# Industrial Laser Sensor based on TF-Luna
+# Custom Industrial Laser Distance Sensor Based on TF-Luna
 
-Custom industrial laser sensor developed as a cost-effective replacement for an obsolete industrial distance sensor.
+Custom industrial laser distance sensor developed as a cost-effective replacement for an obsolete industrial distance sensor.
 
 ## Features
 
 - TF-Luna ToF laser module
-- ATmega328PB
+- ATmega328PB microcontroller
 - RS-485 Modbus RTU
-- 4–20 mA output
-- Digital filtering
-- EEPROM calibration
-- Industrial enclosure
+- 4–20 mA analog output
+- Digital signal filtering
+- EEPROM-stored calibration
+- Custom industrial enclosure
 
-Currently operating on a concrete block production line.
+The sensor is currently operating on a concrete block production line for automatic concrete mixture dosing.
 
-Automatic Dosing (Close View)
+## Videos
+
+### Automatic Dosing (Close View)
 https://youtube.com/shorts/zwSHPJO99uA
 
-Automatic Dosing (Front View)
-https://youtube.com/shorts/gGjYULFCIdY?feature=share
+### Automatic Dosing (Front View)
+https://youtube.com/shorts/gGjYULFCIdY
 
-Operator HMI displaying measurements from both laser sensors (K1 and K2)
+### Operator HMI Display
+Measurements from both laser sensors (K1 and K2)
 https://youtu.be/ycKj416GfGs
 
-More information:
+## More Information
+
+Hackaday Project:
 https://hackaday.io/...
+
