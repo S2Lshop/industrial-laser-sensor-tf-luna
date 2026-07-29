@@ -1,5 +1,5 @@
 # Custom Industrial Laser Distance Sensor Based on TF-Luna
-
+![Custom Industrial Laser Distance Sensor](sensor.jpg)
 Custom industrial laser distance sensor developed as a cost-effective replacement for an obsolete industrial distance sensor.
 
 ## Features
