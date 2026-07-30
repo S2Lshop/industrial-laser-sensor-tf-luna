@@ -29,5 +29,5 @@ https://youtu.be/ycKj416GfGs
 ## More Information
 
 Hackaday Project:
-https://hackaday.io/...
+https://hackaday.io/project/206284-custom-industrial-laser-distance-sensor
 
