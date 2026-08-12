@@ -1,7 +1,7 @@
 # Industrial Laser Distance Sensor (RS485/4-20mA)
-![Industrial Laser Distance Sensor](Industrial laser distance sensor RS485 4-20mA.png)
-![Industrial laser distance sensor RS485 connector](Industrial laser distance sensor RS485 connector.png)
-Industrial laser distance sensor with simultaneous RS485 Modbus RTU and active 4–20 mA interfaces. Suitable for industrial automation, process control, level monitoring, agriculture, and many other real-world applications.
+![Industrial Laser Distance Sensor](Industrial_laser_distance_sensor_RS485_4-20mA.png)
+![Industrial laser distance sensor RS485 connector](Industrial_laser_distance_sensor_RS485_connector.png)
+Industrial laser distance sensor with a protected aluminum enclosure, simultaneous RS485 Modbus RTU and active 4–20 mA interfaces. Suitable for industrial automation, process control, level monitoring, agriculture, and many other real-world applications.
 
 ## Features
 - Simultaneous RS485 Modbus RTU and active 4–20 mA outputs
