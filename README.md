@@ -42,3 +42,6 @@ Hackaday Project:
 https://hackaday.io/project/206284-custom-industrial-laser-distance-sensor
 
 The sensor is available for purchase on [SmallRun](https://smallrun.net/shop/s2lstudio/industrial-laser-distance-sensor-rs485-4-20ma).
+<a href="https://smallrun.net/shop/s2lstudio" target="_blank" rel="noopener">
+  <img src="https://smallrun.net/brand/badge.svg?style=i-sell-on" alt="Find S2Lstudio on SmallRun" width="200" style="border:0;max-width:100%;height:auto" />
+</a>
