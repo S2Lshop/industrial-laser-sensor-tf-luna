@@ -45,3 +45,8 @@ The sensor is available for purchase on [SmallRun](https://smallrun.net/shop/s2l
 <a href="https://smallrun.net/shop/s2lstudio" target="_blank" rel="noopener">
   <img src="https://smallrun.net/brand/badge.svg?style=i-sell-on" alt="Find S2Lstudio on SmallRun" width="200" style="border:0;max-width:100%;height:auto" />
 </a>
+
+## License
+
+Free for personal use and hobby projects.
+Credit is appreciated — tag @S2Lshop if you build something with these files!
